@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-API_TOKEN = "679020958:AAHa7kzPJ8RxDDSbsMGCPR6kci2H55C5HME"
+API_TOKEN = "663742265:AAF8WPAu8i5RcU2fcznbWij5Jr0D64-NbBI"
 database_name = "info.db"
 shelve_name = "shelve.db"
 
